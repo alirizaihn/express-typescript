@@ -3,7 +3,7 @@
 Express and TypeScript are a powerful combination. This is a starting point to save you some time setting them up.
 
 ## Installation
-* Clone the repository: `git clone https://github.com/fadamakis/express-typescript-backend`
+* Clone the repository: `git clone https://github.com/alirizaihn/express-typescript.git`
 * Change into the project directory: `cd repository`
 * Install the dependencies: `npm install`
 
